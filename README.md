@@ -3,4 +3,4 @@
 # eg. setwd("~/R/coursera/")
 # use dir() to find the correct program name
 # source("run_analysis.R") 
-# runanalysis
+# runanalysis()
