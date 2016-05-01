@@ -2,5 +2,5 @@
 # First, go to the proper directory
 # eg. setwd("~/R/coursera/")
 # use dir() to find the correct program name
-# ource("run_analysis.R") 
+# source("run_analysis.R") 
 # runanalysis
